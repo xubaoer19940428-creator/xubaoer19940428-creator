@@ -1,0 +1,63 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Independent builder</title>
+  <desc id="desc">Interfaces, systems, and products for web, mobile, and desktop.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="42" y1="18" x2="1158" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15191E"/>
+      <stop offset="1" stop-color="#090B0E"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="151" y1="251" x2="1034" y2="54" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D8FF3E"/>
+      <stop offset="0.54" stop-color="#8AF6D2"/>
+      <stop offset="1" stop-color="#78A7FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1005 77) rotate(141.2) scale(308 213)">
+      <stop stop-color="#78A7FF" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#78A7FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="noise" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="noise"/>
+      <feColorMatrix in="noise" type="saturate" values="0" result="mono"/>
+      <feComponentTransfer in="mono">
+        <feFuncA type="table" tableValues="0 0.055"/>
+      </feComponentTransfer>
+    </filter>
+    <clipPath id="clip">
+      <rect width="1200" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="#090B0E"/>
+    <rect x="1" y="1" width="1198" height="318" rx="23" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect width="1200" height="320" fill="url(#glow)"/>
+    <rect width="1200" height="320" filter="url(#noise)" opacity="0.72"/>
+
+    <path d="M0 266C150 238 236 287 391 250C537 215 624 140 774 151C923 162 1015 112 1200 37" stroke="url(#signal)" stroke-opacity="0.24" stroke-width="1.5"/>
+    <circle cx="391" cy="250" r="4" fill="#D8FF3E"/>
+    <circle cx="774" cy="151" r="4" fill="#8AF6D2"/>
+    <circle cx="1017" cy="111" r="4" fill="#78A7FF"/>
+
+    <g transform="translate(72 60)">
+      <rect width="176" height="28" rx="14" fill="#D8FF3E"/>
+      <text x="88" y="18.5" fill="#0B0D10" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="1.6">INDEPENDENT BUILDER</text>
+    </g>
+
+    <text x="72" y="156" fill="#F4F7F9" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700" letter-spacing="-1.2">Interfaces. Systems. Products.</text>
+    <text x="75" y="204" fill="#C1C8D0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="2.8">WEB  /  MOBILE  /  DESKTOP  /  SYSTEMS</text>
+
+    <g transform="translate(72 256)">
+      <rect width="8" height="8" rx="4" fill="#8AF6D2"/>
+      <text x="20" y="9" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.4">BUILDING QUIETLY · SHIPPING DELIBERATELY</text>
+    </g>
+
+    <g transform="translate(1050 248) rotate(-90)">
+      <text fill="#FFFFFF" fill-opacity="0.28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2">PRODUCT ENGINEERING →</text>
+    </g>
+  </g>
+</svg>
