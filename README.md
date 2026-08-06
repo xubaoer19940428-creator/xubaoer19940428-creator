@@ -1,3 +1,5 @@
+<!-- GitHub Profile README -->
+
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="Independent builder — interfaces, systems, products" />
 </p>
