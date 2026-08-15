@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <sub>You may know me as <a href="https://github.com/xubaoer19940428">@xubaoer19940428</a>. I used that account for eight years before it was banned—this is my new home on GitHub. ☹️</sub>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,pinia,tailwind,nodejs,electron,vite,vitest&theme=dark&perline=14" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Nuxt, Pinia, Tailwind CSS, Node.js, Electron, Vite, and Vitest" />
 </p>
 
