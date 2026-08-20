@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Eight years across screens, runtimes, and product surfaces.</strong>
+  <strong>Nine years across screens, runtimes, and product surfaces.</strong>
   <br />
   <sub>Previously <code>@xubaoer19940428</code> · rebuilding my open-source home here.</sub>
 </p>

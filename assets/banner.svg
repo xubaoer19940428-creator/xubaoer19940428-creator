@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Cheng Qian — cross-platform product engineer</title>
-  <desc id="desc">Eight years building for web, mobile, desktop, and the WeChat ecosystem.</desc>
+  <desc id="desc">Nine years building for web, mobile, desktop, and the WeChat ecosystem.</desc>
   <defs>
     <linearGradient id="panel" x1="28" y1="18" x2="1172" y2="342" gradientUnits="userSpaceOnUse"><stop stop-color="#12181B"/><stop offset="0.58" stop-color="#0A0E11"/><stop offset="1" stop-color="#071013"/></linearGradient>
     <linearGradient id="signal" x1="70" y1="0" x2="1130" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#D9FF57"/><stop offset="0.36" stop-color="#62F5C7"/><stop offset="0.7" stop-color="#75A7FF"/><stop offset="1" stop-color="#FFAF66"/></linearGradient>
@@ -26,7 +26,7 @@
     <path d="M0 71H1200M0 290H1200" stroke="#DCE7EA" stroke-opacity="0.075"/>
     <path class="signal" d="M70 290C205 290 217 257 337 257C459 257 461 290 585 290C708 290 727 246 846 246C967 246 1007 290 1130 290" stroke="url(#signal)" stroke-opacity="0.5" stroke-width="1.5"/>
     <g transform="translate(70 28)"><circle cx="5" cy="5" r="5" fill="#62F5C7" filter="url(#softGlow)"/><text x="20" y="9" fill="#9EABB0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.8">SYSTEM ONLINE / REBUILDING HOME</text></g>
-    <text x="1130" y="38" fill="#667277" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.5">8 YEARS ACROSS SCREENS</text>
+    <text x="1130" y="38" fill="#667277" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.5">9 YEARS ACROSS SCREENS</text>
     <text x="70" y="135" fill="#D9FF57" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="3.8">CHENG QIAN / PRODUCT ENGINEERING</text>
     <text x="67" y="199" fill="#F2F7F5" font-family="Georgia,serif" font-size="51" font-weight="700">Cross-platform by design.</text>
     <text x="70" y="238" fill="#AAB5B9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="2.3">WEB  /  MOBILE  /  DESKTOP  /  WECHAT</text>
