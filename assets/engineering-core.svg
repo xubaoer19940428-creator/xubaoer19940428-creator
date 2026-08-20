@@ -1,0 +1,67 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering core</title>
+  <desc id="desc">Architecture, experience, performance, quality, and delivery form one continuous engineering system.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#0F1518"/><stop offset="1" stop-color="#070B0D"/></linearGradient>
+    <linearGradient id="rail" x1="86" y1="0" x2="1114" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#D9FF57"/><stop offset=".27" stop-color="#62F5C7"/><stop offset=".52" stop-color="#75A7FF"/><stop offset=".77" stop-color="#A98CFF"/><stop offset="1" stop-color="#FFAF66"/></linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#DCE7EA" fill-opacity=".045"/></pattern>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .runner { animation: run 6s ease-in-out infinite; }
+      .blink { animation: blink 1.2s steps(2,end) infinite; }
+      @keyframes run { 0%,5% { transform:translateX(0); } 95%,100% { transform:translateX(1028px); } }
+      @keyframes blink { 50% { opacity:0; } }
+      @media (prefers-reduced-motion: reduce) { .runner,.blink { animation:none; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="388" rx="23" fill="url(#bg)" stroke="#DCE7EA" stroke-opacity=".12" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="388" rx="23" fill="url(#dots)"/>
+  <g transform="translate(44 31)">
+    <circle cx="6" cy="6" r="5" fill="#FF6B6B"/><circle cx="24" cy="6" r="5" fill="#FFD166"/><circle cx="42" cy="6" r="5" fill="#62F5C7"/>
+    <text x="1112" y="10" fill="#657176" text-anchor="end" font-family="ui-monospace,monospace" font-size="9" letter-spacing="1.5">ENGINEERING PIPELINE / ALWAYS ITERATING</text>
+  </g>
+  <path d="M44 61H1156" stroke="#DCE7EA" stroke-opacity=".09"/>
+  <g transform="translate(86 127)">
+    <path d="M0 38H1028" stroke="#DCE7EA" stroke-opacity=".1" stroke-width="9" stroke-linecap="round"/>
+    <path d="M0 38H1028" stroke="url(#rail)" stroke-opacity=".42" stroke-width="2"/>
+    <g class="runner"><circle cx="0" cy="38" r="6" fill="#F2F7F5" filter="url(#glow)"/></g>
+
+    <g transform="translate(0 0)">
+      <circle cx="0" cy="38" r="13" fill="#0C1114" stroke="#D9FF57"/>
+      <text x="0" y="-14" fill="#D9FF57" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9" font-weight="700" letter-spacing="1.4">ARCHITECTURE</text>
+      <text x="0" y="79" fill="#AAB5B9" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9">modules · state</text>
+      <text x="0" y="96" fill="#657176" text-anchor="middle" font-family="ui-monospace,monospace" font-size="8">systems</text>
+    </g>
+    <g transform="translate(257 0)">
+      <circle cx="0" cy="38" r="13" fill="#0C1114" stroke="#62F5C7"/>
+      <text x="0" y="-14" fill="#62F5C7" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9" font-weight="700" letter-spacing="1.4">EXPERIENCE</text>
+      <text x="0" y="79" fill="#AAB5B9" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9">responsive · motion</text>
+      <text x="0" y="96" fill="#657176" text-anchor="middle" font-family="ui-monospace,monospace" font-size="8">accessible UI</text>
+    </g>
+    <g transform="translate(514 0)">
+      <circle cx="0" cy="38" r="13" fill="#0C1114" stroke="#75A7FF"/>
+      <text x="0" y="-14" fill="#75A7FF" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9" font-weight="700" letter-spacing="1.4">PERFORMANCE</text>
+      <text x="0" y="79" fill="#AAB5B9" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9">rendering · loading</text>
+      <text x="0" y="96" fill="#657176" text-anchor="middle" font-family="ui-monospace,monospace" font-size="8">bundle strategy</text>
+    </g>
+    <g transform="translate(771 0)">
+      <circle cx="0" cy="38" r="13" fill="#0C1114" stroke="#A98CFF"/>
+      <text x="0" y="-14" fill="#A98CFF" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9" font-weight="700" letter-spacing="1.4">QUALITY</text>
+      <text x="0" y="79" fill="#AAB5B9" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9">type safety · tests</text>
+      <text x="0" y="96" fill="#657176" text-anchor="middle" font-family="ui-monospace,monospace" font-size="8">maintainability</text>
+    </g>
+    <g transform="translate(1028 0)">
+      <circle cx="0" cy="38" r="13" fill="#0C1114" stroke="#FFAF66"/>
+      <text x="0" y="-14" fill="#FFAF66" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9" font-weight="700" letter-spacing="1.4">DELIVERY</text>
+      <text x="0" y="79" fill="#AAB5B9" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9">build · package</text>
+      <text x="0" y="96" fill="#657176" text-anchor="middle" font-family="ui-monospace,monospace" font-size="8">release</text>
+    </g>
+  </g>
+  <g transform="translate(44 310)">
+    <rect width="1112" height="46" rx="9" fill="#080C0E" stroke="#DCE7EA" stroke-opacity=".09"/>
+    <text x="17" y="29" fill="#62F5C7" font-family="ui-monospace,monospace" font-size="11">$</text>
+    <text x="36" y="29" fill="#C7D0D3" font-family="ui-monospace,monospace" font-size="11">build --surface=any --quality=production</text>
+    <rect class="blink" x="322" y="18" width="7" height="14" fill="#D9FF57"/>
+    <text x="1094" y="29" fill="#62F5C7" text-anchor="end" font-family="ui-monospace,monospace" font-size="9" letter-spacing="1.2">READY</text>
+  </g>
+</svg>
