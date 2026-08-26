@@ -40,3 +40,5 @@
 <p align="center">
   <b>One product mindset. Every screen.</b>
 </p>
+
+<!-- Profile metadata checkpoint. -->
