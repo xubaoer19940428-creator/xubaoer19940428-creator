@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Cheng%20Qian&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Cross-Platform%20%26%20AI%20Product%20Builder&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+  <img src="./assets/banner.svg" width="100%" alt="Cheng Qian — Full-Stack &amp; Cross-Platform Engineer" />
 </p>
 
 <p align="center">
@@ -62,8 +62,4 @@
 | **[visionSniffer](https://github.com/xubaoer19940428-creator/visionSniffer)** | `JavaScript` `Network` `DOM` | Lightweight browser-based media resource sniffer and intelligent network request inspector. | [Repo](https://github.com/xubaoer19940428-creator/visionSniffer) |
 | **[personal-blog](https://github.com/xubaoer19940428-creator/personal-blog)** | `TypeScript` `FullStack` | Personal engineering archive, architectural notes, and frontend system experiments. | [Repo](https://github.com/xubaoer19940428-creator/personal-blog) |
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" alt="Footer" />
-</p>
