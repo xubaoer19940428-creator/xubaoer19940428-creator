@@ -49,19 +49,6 @@
   </picture>
 </p>
 
----
-
-### 📊 GitHub Analytics & Streak
-
-<p align="center">
-  <a href="https://github.com/xubaoer19940428-creator">
-    <img src="https://streak-stats.demolab.com/?user=xubaoer19940428-creator&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xubaoer19940428-creator/xubaoer19940428-creator/output/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
 
 ---
 
